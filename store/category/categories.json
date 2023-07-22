@@ -1,0 +1,34 @@
+[
+    {
+        "id": "recommend",
+        "name": "推荐"
+    },
+    {
+        "id": "role",
+        "name": "角色"
+    },
+    {
+        "id": "comment",
+        "name": "点评"
+    },
+    {
+        "id": "workplace",
+        "name": "职场"
+    },
+    {
+        "id": "program",
+        "name": "编程"
+    },
+    {
+        "id": "study",
+        "name": "学习"
+    },
+    {
+        "id": "life",
+        "name": "生活"
+    },
+    {
+        "id": "emotion",
+        "name": "情感"
+    }
+]
