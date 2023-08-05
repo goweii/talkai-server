@@ -4,6 +4,10 @@
         "name": "推荐"
     },
     {
+        "id": "person",
+        "name": "名人"
+    },
+    {
         "id": "role",
         "name": "角色"
     },
